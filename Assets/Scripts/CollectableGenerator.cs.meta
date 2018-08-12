@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e5adcab0c351124894aae2e2598b271
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pointCollectable: {fileID: 1972465988466262, guid: 74b9ca2beea327046807caa646df1a67,
+      type: 2}
+  - boundBonusCollectable: {fileID: 1235587258381540, guid: e2c2bcbfc8587514db7ddb12ec207bb2,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
